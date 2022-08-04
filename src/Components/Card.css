@@ -1,0 +1,50 @@
+.Card {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  text-align: center;
+  margin: 30px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  transition: transform .2s;
+}
+
+.Card:hover{
+  transform: scale(1.10);
+}
+
+.img {
+  height: 310px;
+  width: 400px;
+  object-fit:cover;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.Title {
+  background-color: white;
+  color: rgb(255, 0, 0);
+  font-family:'montserrat';
+  font-size: 22px;
+  margin-top: 5px;
+}
+
+.Content {
+  background-color: white;
+  color: rgb(0, 0, 0);
+  font-family: 'montserrat';
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-size: 8.5px;
+  margin-top: 2px;
+}
+
+.Button {
+  height: 22px;
+  width: 110px;
+  font-family: 'montserrat';
+  font-size: 10px;
+  text-align: center;
+  margin-top: 7px;
+  border:none;
+  color: white;
+}
