@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className='titlee'>All Suriya Movies</div>
+      <div className='titlee'>ALL SURIYA MOVIES</div>
       <div className='boxx'>
        <Card
           Img="https://static.toiimg.com/thumb/msid-92784409,width-800,height-600,resizemode-75,imgsize-51264,pt-32,y_pad-40/92784409.jpg"

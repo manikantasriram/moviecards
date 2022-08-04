@@ -6,16 +6,16 @@
 }
 
 .boxx{
-  margin: 60px;
+  margin: 50px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .titlee{
-  margin: 60px;
-  font-size: 33px;
+  margin: 70px;
+  font-size: 66px;
   text-align: center;
   font-family: 'montserrat';
   color: white;
