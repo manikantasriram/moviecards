@@ -53,7 +53,7 @@ function App() {
           Link = "https://www.imdb.com/title/tt6237966/?ref_=nv_sr_srsg_0"
           />
           <Card
-          Img="https://live.staticflickr.com/804/40954432491_e4d7329c74_b.jpg"
+          Img="https://wallpapercave.com/wp/wp6772477.jpg"
           Title = "SINGAM-3"
           Content = "WATCH IT HERE"
           Link = "https://www.imdb.com/title/tt5323640/"
