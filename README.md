@@ -12,22 +12,25 @@ A responsive grid of movie cards built with React and Material UI. Each card sho
 
 ## Tech
 
-React 18 · Material UI · JavaScript · CSS · Create React App · deployed on Vercel
+React 18 · Material UI · JavaScript · CSS · Vite · Vitest · deployed on Vercel
 
 ## Run it locally
 
 ```bash
 npm install
-npm start
+npm run dev     # dev server on http://localhost:3000
+npm test        # run the tests
+npm run build   # production build in build/
 ```
 
-Then open http://localhost:3000.
+Needs Node 20.19 or newer.
 
 ## Project structure
 
 ```
 src/
-  App.js              the page: a grid of <Card /> components
+  main.jsx            entry point
+  App.jsx             the page: a grid of <Card /> components
   Components/
     Card.jsx          the reusable card
     Card.css          card styles
