@@ -17,7 +17,7 @@ function App() {
           Link = "https://www.imdb.com/title/tt9179430/"
           />
           <Card 
-          Img="https://www.pinkvilla.com/files/styles/amp_metadata_content_image_min_696px_wide/public/suriya_latest_poster_mian_0.jpg?itok=EdriMQxO"
+          Img="https://m.media-amazon.com/images/M/MV5BMzYwMTViYzItZmE0ZS00MjQ5LWIxZTQtZDY0YTc0ZWRkNjYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
           Title = "ETHARKKUM THUNINDHAVAN"
           Content = "WATCH IT HERE"
           Link = "https://www.imdb.com/title/tt10340562/"
@@ -41,7 +41,7 @@ function App() {
           Link = "https://www.imdb.com/title/tt8411144/?ref_=fn_al_tt_3"
           />
           <Card
-          Img="https://moviegalleri.net/wp-content/gallery/ngk-movie-release-posters/suriya-ngk-movie-release-posters-2b5ac77.jpg"
+          Img="https://m.media-amazon.com/images/M/MV5BZDViNTk3NjQtYWE3My00MWJlLWE0MzctOWQxYzkzZjBkZGYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
           Title = "NGK  "
           Content = "WATCH IT HERE"
           Link = "https://www.imdb.com/title/tt8094252/?ref_=fn_al_tt_1"
