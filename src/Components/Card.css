@@ -48,3 +48,20 @@
   border:none;
   color: white;
 }
+
+/* phones: the card fits the screen instead of a fixed 400px, so the page never scrolls sideways */
+@media (max-width: 480px) {
+  .Card {
+    width: 100%;
+    margin: 0 0 32px;
+  }
+
+  .img {
+    width: 100%;
+  }
+
+  /* a full-width card can't grow on tap without spilling off the screen */
+  .Card:hover {
+    transform: none;
+  }
+}

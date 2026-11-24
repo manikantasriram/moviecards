@@ -20,3 +20,15 @@
   font-family: 'montserrat';
   color: white;
 }
+
+/* phones: smaller side margins and title, so the cards get the full width */
+@media (max-width: 480px) {
+  .boxx {
+    margin: 32px 16px;
+  }
+
+  .titlee {
+    margin: 48px 16px 16px;
+    font-size: 40px;
+  }
+}
